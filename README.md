@@ -7,4 +7,4 @@ para masolve angvalue sa y i read the valueof x na naa sa akong txt file
 then i use a main function para sa akong solving at the same time graphing for y values and executing the results to my output file
 then there is an option para makapili ang user ug unsa iyang igraph
 and then if naggaask ang user ug igraph nagacreate sad ug result sa ouput file ang every y values ato na expression na gipili ni user
-writing lang ni siya not appending po. Thanks
+writing lang ni siya and  not appending po
